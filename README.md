@@ -38,5 +38,5 @@
 > * **Tratamentos e Intervenções:** A eficácia comprovada de intervenções comportamentais precoces e a ausência de medicamentos com eficácia robusta para tratar os sintomas centrais do TEA.
 > * **Apoio Educacional:** Como o uso de estratégias pedagógicas estruturadas e tecnologias assistivas ajudam no engajamento e na alfabetização de estudantes autistas.
 
-[**Ouça o episódio aqui clicando aqui.**]()
+[**Ouça o episódio aqui clicando aqui.**](https://youtu.be/nqMfxgMLX6s)
 
