@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🧩 Podcast: Genética, ambiente e tratamento do autismo.
 
-## 🚀 Introdução
+## 📖 Descrição
 
-> Woooow! Look at this 👀
+> Neste episódio de podcast de 29 minutos dois apresentadores discutem sobre o autismo baseando-se em respostas a perguntas feitas à IA Consensus que busca respostas para perguntas na literatura científica.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🤖 Tecnologias utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+> * IA generativa [NotebookLM](https://notebooklm.google.com/) para a criação do podcast;
+> * Mecanismo de busca acadêmica e científica baseado em Inteligência Artificial (IA) generativa e Processamento de Linguagem Natural (PLN) [Consensus](https://consensus.app/).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+> O Consensus fora utilizado para realizar a pesquisa científica respondendo às seguintes perguntas:
+> * Are there any effective medications to treat core autism symptoms?
+> * How does the use of assistive technology support the literacy process of autistic individuals?
+> * How effective is the early intervention in the development of children with autism?
+> * Is autism caused by environmental or genetic factors?
+> * What are the early signs of autism in children?
+> * What are the pedagogical strategies that are more efficient for students with autism?
+> * What defines Autism Spectrum Disorder according to DSM-5?
+> * What interventions have higher scientific evidence regarding the treatment of Autism Spectrum Disorder?
+>
+> As respostas foram salvas em arquivos PDF e depois fora feito o upload dos arquivos para o NotebookLM, após a análise das fontes pelo NotebookLM, gerei o episódio de podcast.
+>
+> **Observação:** Realizei as perguntas em inglês pois o Consensus tende a trazer respostas melhores para perguntas realizadas em inglês.
+>
+> Após isto, fiz o download do arquivo de áudio e fiz o uploado para o Google Vids onde lá eu gerei uma imagem de capa para poder colocar no vídeo. O prompt utilizado foi:
+> "Gere uma imagem ultrarrealista de um homem e uma mulher em um estúdio de podcast. Os hosts são um fonoaudiólogo e uma fonoaudióloga."
+> Ainda no Google Vids, pedi para ele gerar um vídeo a partir da imagem e coloquei este vídeo em looping no background.
+> Fiz o upload do vídeo e para o Canva e fiz alguns ajustes estéticos.
+> Então, após isto fiz o upload do video para o YouTube.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+> O episódio completo do podcast é explora de forma detalhada o Transtorno do Espectro Autista (TEA) abordando:
+> * **Diagnóstico e Sinais Precoces:** A definição clínica atual segundo o DSM-5 e os primeiros sinais de alerta perceptíveis nos primeiros anos de vida da criança.
+> * **Causas:** A forte influência genética por trás do autismo e como ela interage com fatores ambientais.
+> * **Tratamentos e Intervenções:** A eficácia comprovada de intervenções comportamentais precoces e a ausência de medicamentos com eficácia robusta para tratar os sintomas centrais do TEA.
+> * **Apoio Educacional:** Como o uso de estratégias pedagógicas estruturadas e tecnologias assistivas ajudam no engajamento e na alfabetização de estudantes autistas.
 
-### Exemplos e Insigths
+[**Ouça o episódio aqui clicando aqui.**]()
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
